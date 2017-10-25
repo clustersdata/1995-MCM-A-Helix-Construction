@@ -1,2 +1,3 @@
 # 1995-MCM-A-Helix-Construction
-1995 MCM A: Helix Construction
+
+A small biotechnological company must design, prove, program and test a mathematical algorithm to locate “in real time” all the intersections of a helix and a plane in general positions in space. Design, justify, program and test a method to compute all the intersections of a plane and a helix, both in general positions (at any locations and with any orientations) in space. A segment of the helix may represent, for example, a helicoidal suspension spring or a piece of tubing in a chemical or medical apparatus. Theoretical justification of the proposed algorithm is necessary to verify the solution from several points of view, for instance, through mathematical proofs of parts of the algorithm, and through tests of the final program with known examples. Such documentation and tests will be required by government agencies for medical use. 
